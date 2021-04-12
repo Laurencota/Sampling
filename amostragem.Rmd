@@ -15,9 +15,10 @@ library(tidyverse)
 set.seed(490)
 ```
 
+**Banco de dados agpop**
+O governo dos Estados Unidos realiza um recenseamento agrícola de cinco em cinco  anos,  coletando  dados  em  todas  as  fazendas  (definido  como  qualquer lugar onde foram produzidos e vendidos ou mais de produtos agrícolas) nos 50 estados1. O Censo de Agricultura fornece dados sobre o número de fazendas, a área total dedicada às fazendas, ao tamanho da fazenda, ao rendimento de diferentes culturas e a uma grande variedade de outras medidas agrícolas para cada  um  dos  municípios  (localidades).  
 
-
-**De forma similar como foi obtida a AASs, cada grupo gerará sua própria AASs de tamanho 300 dessa mesma população (utilize “agpop”).**
+**De forma similar como foi obtida a AASs, cada um gerará sua própria AASs de tamanho 300 dessa mesma população (utilize “agpop”).**
 
 
 Para obter um AAS de tamanho 300 dessa população, geram-se 300 números aleatórios entre 0 e 1 no computador,
